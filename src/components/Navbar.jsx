@@ -66,6 +66,7 @@ const Navbar = () => {
         color={currentColor}
         icon={<AiOutlineMenu />}
       />
+
       <div className="flex">
         <NavButton
           title="Cart"
